@@ -12,3 +12,6 @@ The program uses three helper functions to format and parse monetary values and 
 The program uses a do-while loop to repeatedly display the menu and execute the corresponding function based on the user's input.
  The loop continues indefinitely until the user chooses the option to quit the program. 
  The program uses standard input and output functions, including scanf, printf, and fgets.
+
+Sample Output:
+![image](https://user-images.githubusercontent.com/87671757/221430183-4cb37989-fbac-4d2e-a2f1-4fcd594f3798.png)
