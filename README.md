@@ -1,5 +1,5 @@
 # Banking-App-in-C
-This code is a simple banking app that allows users to deposit, withdraw, and check their account balance. 
+This C code is a simple banking app that allows users to deposit, withdraw, and check their account balance. 
 It uses a struct to store the user's account number and balance. The program prompts the user to enter 
 an account number and initial balance, and then displays a menu with options for depositing money, withdrawing money,
 checking the account balance, and quitting the program.
